@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dominik Widlak</h1>
 <h3 align="center">A passionate fullstack developer from Poland</h3>
 
-- 🔭 I’m currently working on [Spiewnik](https://spiewnik.rary.re/) and [Front-end App](https://github.com/Rar-files/NoteAppWeb) for [NoteAppAPI](https://github.com/Rar-files/NoteAppApi)
+- 🔭 I’m currently working on [Songbook](https://spiewnik.rary.re/) and [Front-end App](https://github.com/Rar-files/NoteAppWeb) for [NoteAppAPI](https://github.com/Rar-files/NoteAppApi)
   
 - 🤝 I’m looking **for a job.**
 
