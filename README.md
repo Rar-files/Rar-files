@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dominik Widlak</h1>
 <h3 align="center">A passionate fullstack developer from Poland</h3>
 
-- 🔭 I’m currently working on [menu-planner](https://github.com/Rar-files/menu-planner), [Songbook](https://spiewnik.rary.re/) and [Front-end App](https://github.com/Rar-files/NoteAppWeb) for [NoteAppAPI](https://github.com/Rar-files/NoteAppApi)
 - 🤝 I’m looking **for a job.**
+- 🔭 I’m currently working on [menu-planner](https://github.com/Rar-files/menu-planner), [Songbook](https://spiewnik.rary.re/) and [Front-end App](https://github.com/Rar-files/NoteAppWeb) for [NoteAppAPI](https://github.com/Rar-files/NoteAppApi)
+- 🌱 I’m currently learning **Java, Spring**
 
 - <a href="https://www.linkedin.com/in/dominik-widlak" target="blank"><img align="start" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dominik-widlak" height="15" width="20" /></a> Connect with me [Dominik Widlak](https://www.linkedin.com/in/dominik-widlak)
 
